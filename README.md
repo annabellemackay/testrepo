@@ -6,3 +6,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/annabellemackay/testrepo.git
 git push -u origin main
+## editing the file
+
+its a markdown file in this repository
